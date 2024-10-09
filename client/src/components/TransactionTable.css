@@ -1,0 +1,64 @@
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.search{
+  padding: 2px 2px;
+  height: 30px;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 5px 5px 2px gray;
+}
+
+.btn{
+  margin-left: 10px;
+  height: 30px;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 5px 5px 2px gray;
+}
+.btn:hover{
+  opacity: 50%;
+}
+
+.table{
+  width: 100%;
+  margin-top: 30px;
+  align-items: center;
+  justify-content: center;
+ 
+}
+
+.page{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.pagebtn{
+  height: 30px;
+  width: 80px;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 5px 5px 2px gray;
+}
+
+.pageno{
+  width: fit-content;
+  box-shadow: 5px 5px 2px gray;
+}
+
+.month{
+  height: 30px;
+  font-size: 15px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.statistics{
+  margin-left: 10vh;
+}

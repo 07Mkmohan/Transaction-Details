@@ -1,0 +1,20 @@
+body{
+  background-color: rgb(213, 207, 207);
+
+}
+
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid black; 
+  padding: 8px; 
+  text-align: left; 
+}
+
+th {
+  background-color: #b0a9a9;
+}
